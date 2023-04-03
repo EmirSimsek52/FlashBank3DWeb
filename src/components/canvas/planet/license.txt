@@ -1,0 +1,11 @@
+Model Information:
+* title:	Planet
+* source:	https://sketchfab.com/3d-models/planet-f22e6552707342d1bba5da3239387f75
+* author:	Katy.K (https://sketchfab.com/Katy.K)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Planet" (https://sketchfab.com/3d-models/planet-f22e6552707342d1bba5da3239387f75) by Katy.K (https://sketchfab.com/Katy.K) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

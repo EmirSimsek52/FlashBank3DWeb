@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bitcoin Logo
+* source:	https://sketchfab.com/3d-models/bitcoin-logo-4c4d85419c924df4abfb83a76ddd3d42
+* author:	Tiko (https://sketchfab.com/tikoavp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bitcoin Logo" (https://sketchfab.com/3d-models/bitcoin-logo-4c4d85419c924df4abfb83a76ddd3d42) by Tiko (https://sketchfab.com/tikoavp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

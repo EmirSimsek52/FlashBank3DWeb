@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute spider robot
+* source:	https://sketchfab.com/3d-models/cute-spider-robot-6ac373fc669e4a09878bae60a989cf4d
+* author:	tom0612 (https://sketchfab.com/tom0612)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute spider robot" (https://sketchfab.com/3d-models/cute-spider-robot-6ac373fc669e4a09878bae60a989cf4d) by tom0612 (https://sketchfab.com/tom0612) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
